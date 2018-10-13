@@ -1,0 +1,792 @@
+1.gratitude:
+-FileName: jskillin.pst
+
+
+Thanks for taking time to call  yesterday.  Good luck with the Lockyer situ=
+ation.  I truly do believe  that direct and prompt interaction with Lockyer=
+ will prove more effective for  Enron than delayed or intermediated action.=
+    As we discussed,  if I can be of any help with reconnaissance or as sou=
+nding  board, just let me know.
+=20
+I have attached an article from  this morning's LA Times.  It provides an C=
+alifornia view on how the  shakeup in the Senate might impact the state's e=
+nergy  situation.  Certainly, by the time that President Bush visits  the C=
+alifornia in a few days, the state's two Democratic US  Senators will be a =
+good bit more empowered.
+=20
+Kevin
+213-926-2626
+=20
+
+2.internal project
+
+Jeff
+ 
+I have prepared the attached chart for  you.  It captures the ideas we discussed last week.
+Please call when you have a chance.  I  look forward to talking with you.
+ 
+Kevin
+3.
+Karen
+
+Here it is!
+
+Plenty of good Houston input here as well as Europe.
+
+An excellent general article has resulted; nice pictures too.  I'll get some 
+original copies couriered over to you asap.
+
+We are organising bi-lingual reprints.  Please let Iona know how many you'd 
+like.
+
+Thanks
+
+4.
+Jim- Do you have a list of who I talked to in Houston and their affiliation.
+ I would like to keep straight who I have spoken with. 
+ The only card I received is from Michael Geffroy.
+ Let me know if there is a problem with this request. Thanks, Rick Buy
+5.
+Once the website is functional, it will be helpful to have a complete history 
+of deals and having these kind of memos in dash format will aid this process. 
+
+One final thought, Michael is quite supportive of our effort and I think we 
+should pick battles carefully. Rick
+6.
+To keep pace with the fluid and fast-changing demands of our equity trading activities,
+ Enron Wholesale Services ("EWS") has recently revised its official Policies and Procedures Regarding 
+ Confidential Information and Securities Trading ("Policies and Procedures").
+ These revisions reflect two major developments: (1) our equity trading activities have been extended into the United Kingdom,
+ and (2) in an effort to streamline the information flow process, 
+ the "Review Team" will play a more centralized role, 
+ so that the role of the "Resource Group" is no longer necessary.
+ You are required to become familiar with, and to comply with, the Policies and Procedures.
+ The newly revised Policies and Procedures are available for your review on LegalOnline, 
+ the new intranet website maintained by the Enron Wholesale Services Legal Department.  
+ Please click on the attached link to access LegalOnline:
+ http://legalonline.corp.enron.com/chinesewall.asp 
+7.
+If you have already certified compliance with the Policies and Procedures during the 2001 calendar year,
+ you need not re-certify at this time, although you are still required to to review and become 
+ familiar with the revised Policies and Procedures.  
+ If you have not certified compliance with the Policies and Procedures during the 2001 calendar year,
+ then you must do so within two weeks of your receipt of this message. 
+ The LegalOnline site will allow you to quickly and conveniently certify your compliance on-line with your SAP Personal ID number.
+ If you have any questions concerning the Policies or Procedures, please call Bob Bruce at extension 5-7780 or Donna Lowry at extension 3-1939.
+8.
+You are required to become familiar with, and to comply with, the Policies 
+and Procedures.  The newly revised Policies and Procedures are available for 
+your review on LegalOnline, the new intranet website maintained by the Enron 
+Wholesale Services Legal Department.  Please click on the attached link to 
+access LegalOnline:
+9.
+You must certify your compliance with the Policies and Procedures within two 
+weeks of your receipt of this message.  The LegalOnline site will allow you 
+to quickly and conveniently certify your compliance on-line with your SAP 
+Personal ID number.  If you have any questions concerning the Policies or 
+Procedures, please call Lance Schuler at extension 3-5419, Mark Haedicke at 
+extension 3-6544, Alan Aronowitz at extension 3-3214, Bob Bruce at extension 
+5-7780 or Donna Lowry at extension 3-1939.
+10.
+Attached is Enron North America Corp.'s 
+suggested revisions to your pro forma confidentiality agreement. 
+ Please review and let us know if the suggested revisions are approved.
+
+Thanks for your help,
+Ruth Concannon
+11.
+Outsource for Success
+
+Enjoy management flexibility and the benefits of a secure,
+carrier-class environment with Sprint E|Solutions Web hosting
+and collocation services. Learn about these services and find
+out how outsourcing can help your company create a scalable and
+reliable way of maintaining a strong Web presence. Find out
+more during a free, one-hour Webcast on June 20
+http://nww1.com/go/2947616a.html  Brought to you by
+Sprint E|Solutions, Network World and ITWorld.com
+___________________________________________________
+12.
+
+Many Linux vendors have released a patch for the xinetd package
+that fixes a flaw in the way the application deals with TCP
+WAIT commands. The problem prevents the linuxconf-web
+application from working properly. Another flaw in the xinetd
+package creates world-writeable files that can be used in a
+symlink attack. Linux-Mandrake users can download the new patch
+from:
+http://www.linux-mandrake.com/en/ftp.php3
+
+Red Hat users can get more information and links to patches
+from:
+http://www.redhat.com/support/errata/RHSA-2001-075.html
+
+Immunix OS 7.0-beta and 7.0 users can get the appropriate patch
+from:
+http://download.immunix.org/ImmunixOS/7.0/updates/RPMS/xinetd-2.1.8.9pre15-2
+
+_imnx.i386.rpm
+13
+
+Linux-Mandrake has issued a patch for its tcpdump package that
+fixes a potential buffer overflow vulnerability. The flaw could
+be used in a remote attack on the tcpdump process. This patch
+also fixes a previous vulnerability that could allow a remote
+user to run arbitrary code on the affected system without root
+privileges. The new patch can be downloaded from:
+http://www.linux-mandrake.com/en/ftp.php3
+
+14.
+According to an alert from Linux-Mandrake, several flaws have
+been found in the UW-IMAP package that could allow an
+authenticated user to gain greater shell command access. This
+is particularly problematic for e-mail systems that do not
+normally provide shell access. Patches can be downloaded from:
+http://www.linux-mandrake.com/en/ftp.php3
+15.
+To subscribe or unsubscribe to any Network World e-mail
+newsletters, go to:
+http://www.nwwsubscribe.com/news/scripts/notprinteditnews.asp
+
+To unsubscribe from promotional e-mail go to:
+http://www.nwwsubscribe.com/ep
+
+To change your e-mail address, go to:
+http://www.nwwsubscribe.com/news/scripts/changeemail.asp
+
+Subscription questions? Contact Customer Service by replying to
+this message.
+
+Have editorial comments? Write Jeff Caruso, Newsletter Editor,
+at: mailto:jcaruso@nww.com
+
+For advertising information, write Jamie Kalbach, Fusion Sales
+Manager, at: mailto:jkalbach@nww.com
+
+16.
+FYI, the following website describes a variety of econometrics methods - which we plan to implement to solve the private firm problem.  
+
+	Many of these methods were briefly described in the recent draft of the Duffie document.  
+
+	Kyriakos will be writing a paper which will describe these methods in more detail.
+
+
+
+
+			http://www.statsoft.com/textbook/STATHOME.html.
+17.
+Martin,
+
+You may find it useful.
+
+Vince
+18.
+This is not the most clearly drafted provision as it was the subject of much 
+negotiation....and was significantly narrowed from the  original scope 
+proposed by AEP.  Thus, please consult with me prior to entering into any 
+solicitation, agreement or arrangement which might arguably be covered by our 
+limited covenant not to compete on the supply side for 3 months.  There are 
+many aspects of the post-close transition which will require cooperation 
+between Enron and AEP/HPL and thus, it behoves us to carefully weigh the 
+risks and rewards of "stepping too close to or over the line".
+
+Further,although a technical reading of the non-competition agreement only 
+applies to ENA, no ENA UPSTREAM deals which would violate this covenant if 
+there were to be done as ENA should be done without clearance from Brian 
+Redmond and me.
+
+19.
+This appears to be supply deal for deliveries at Katy that would be subject 
+to the 90 day non-compete.  Sandi is in the process of getting me a copy of 
+the non-compete so that I can determine if this deal is covered.  Do you have 
+any thoughts
+20.
+Dan,
+
+Please find below details of Phy Gas deals with GTC agreements:
+21.
+
+Please let me know if you need any more details.
+
+Thanks,
+Richard
+x54886
+22.
+You are required to become familiar with, and to comply with, the Policies 
+and Procedures.  The newly revised Policies and Procedures are available for 
+your review on LegalOnline, the new intranet website maintained by the Enron 
+Wholesale Services Legal Department.  Please click on the attached link to 
+access LegalOnline:
+23.
+Enron Wholesale Services ('EWS') maintains official Policies and Procedures 
+Regarding Confidential Information and Securities Trading ('Policies and 
+Procedures'), which have been revised as of November 15, 2000 to reflect the 
+new EWS structure.  These policies and procedures are intended to allow us 
+simultaneously to pursue our diverse businesses and to protect confidential 
+information, our reputation for integrity, and EWS and its employees from 
+legal liability.
+24.
+You must certify your compliance with the Policies and Procedures within two 
+weeks of your receipt of this message.  The LegalOnline site will allow you 
+to quickly and conveniently certify your compliance on-line with your SAP 
+Personal ID number.  If you have any questions concerning the Policies or 
+Procedures, please call Lance Schuler at extension 3-5419, Mark Haedicke at 
+extension 3-6544, Alan Aronowitz at extension 3-3214, Bob Bruce at extension 
+5-7780 or Donna Lowry at extension 3-1939. 
+25.
+Whatever the explanation, the plain fact is that FERC and the
+administration have yet to offer California any significant
+relief.
+26.
+Martin, Lance
+
+What do you think?
+
+Vince
+27.
+   As we discussed during our dinner, I think the two biggest sources
+> of benefits from re-structuring will come from getting the demand-side
+> involved in the market and from more efficient risk management.  A
+> necessary condition for both of these to occur is prices that reflect
+> actual conditions in the market (including the extent of market power
+> exercised).  Masking these signals dulls any incentive for market
+> participants to make the investment necessary to management.  The PJM
+> model is just way to have a market in name without achieving any
+> significant benefits to consumers or energy traders.
+>
+> Frank
+28.
+
+Wolak makes some good points.  In ERCOT, Enron is in support of nodal pricing. 
+ I would not go so far as to say we are pushing for PJM's implementation, however, but for a market with nodal prices 
+ (and unilateral bids - aka unbalanced schedules, congestion reflect by price differentials, etc).  
+ I was unaware PJM had such great power to alter bids.  This is something we don't want, and something for which
+ I am not aware we have advocated.  Perhaps in Enron's promotion of locational prices, it has been retold as PJM-style locational prices. 
+ Given that PJM is the most commonly cited example of locational prices, it does not surprise me to 
+ have the sloppiness in discussions that could lead to the rumors
+29.
+Here is an outline of the possible scope/impacts for the EWRM effort as discussed:
+30.
+Shirley,
+
+Please, distribute to my direct reports.
+
+Vince
+31.
+Kevin
+I had the Capacity forecast column units mislabeled Here is the revised one. If you want, just have your NEEPOOL lead type over our forecast and re-send to us. We will not let this get out of our shop, and we will get you in on a block to buy.
+ 
+Thanks again
+Fred
+32.
+Can you help me?
+
+I am looking for some help in identifying the right person(s) at: Enron
+Corp., for an introduction of our software solution.  Steven, if you could
+take a moment and point me to the appropriate contact I would greatly
+appreciate it.
+33.
+eProvisioning radically improves people's Time-To-Productivity by
+transforming the disparate activities that allocate IT resources to people
+into a secure and automatic process. Once provisioned, these resources
+remain digitally connected to each person as they move through the business
+cycle and are dynamically updated as necessary. At the appropriate time,
+they are systematically, securely and automatically removed.
+34
+
+Please, if you could give me a few minutes of your valuable time or guide me
+to the right person to describe the significant benefits of what we offer."
+35.
+Thank you for your time.
+36.
+Sanjay: Some information of possible interest to you. I attended a meeting 
+this afternoon of the Coalition of Service Industries, one of the lead groups 
+promoting a wide range of services including energy services in the upcoming 
+WTO GATTS 2000 negotiations. CSI President Bob Vastine was in Delhi last week 
+and met with CII to discuss the upcoming WTO. CII apparently has a committee 
+looking into the WTO. Bob says that he told them that energy services was 
+among the CSI recommendations and he recalls that CII said that they too have 
+an interest.
+37.
+Since returning from the meeting I spoke with Kiran Pastricha and told her 
+the above. She actually arranged the meeting in Delhi. She asked that I send 
+her the packet of materials we distributed last week in Brussels and London. 
+One of her associates is leaving for India tomorrow and will take one of 
+these items to Delhi.
+38.
+
+I will ask Lora to send you the packet of materials Chris Long and I 
+distributed in Brussels and London last week. I gave these materials to 
+Sudaker today.
+
+Everyone tells us that we need some developing countries with an interest in 
+this issue. They may not know what we are doing and that they are likely to 
+have an opportunity if energy services are ultimately negotiated.
+
+Please review and advise us how we should proceed. We do need to get 
+something done in October.
+Joe
+39.
+This morning I visited with Sudaker Rao at the Indian Embassy to tell him 
+about our coalition and to seek his advice on possible interest of the GOI. 
+After all, India is a leader in data processing matters and has other 
+companies including ONGC that must be interested in exporting energy 
+services. In fact probably Enron and other US companies may be engaging them 
+in India and possibly abroad.
+40
+please forward to Ellen B.  
+
+Ellen - I added the statistic you wanted and updated the older ones (you'll 
+notice
+slightly different prices/occurrences because I hadn't cut off the date at 
+Jan 1 2000 - i.e., the averages previously included the last month's worth of 
+data.)
+
+41.
+please forward to Ellen B.  
+
+Ellen - I added the statistic you wanted and updated the older ones (you'll 
+notice
+slightly different prices/occurrences because I hadn't cut off the date at 
+Jan 1 2000 - i.e., the averages previously included the last month's worth of 
+data.)
+
+42.
+The following expense report is ready for approval:
+
+Employee Name: Mark A. Palmer
+Status last changed by:  Automated Administrator
+Expense Report Name: March 2001 AMEX
+Report Total: $6,539.82
+Amount Due Employee: $6,539.82
+43.
+revised excel workbook is attached
+
+
+
+please forward to Ellen B.  
+
+Ellen - I added the statistic you wanted and updated the older ones (you'll 
+notice
+slightly different prices/occurrences because I hadn't cut off the date at 
+Jan 1 2000 - i.e., the averages previously included the last month's worth of 
+data.)
+44.
+revised excel workbook is attached
+
+
+
+please forward to Ellen B.  
+
+Ellen - I added the statistic you wanted and updated the older ones (you'll 
+notice
+slightly different prices/occurrences because I hadn't cut off the date at 
+Jan 1 2000 - i.e., the averages previously included the last month's worth of 
+data.)
+45
+
+testing
+46.
+
+I am looking for some help in identifying the right person(s) at: Enron
+Corp., for an introduction of our software solution.  Steven, if you could
+take a moment and point me to the appropriate contact I would greatly
+appreciate it.
+47
+
+Please, if you could give me a few minutes of your valuable time or guide me
+to the right person to describe the significant benefits of what we offer."
+
+Web Site:  http://www.businesslayers.com
+
+Demo-Site: http://demo.businesslayers.com
+48.
+Thank you for your time.
+49.
+
+Greetings All:
+
+First, I am apologizing in advance for any typos in this email.  Schedule i=
+s=20
+very tight, but I wanted to make sure that everyone had it first thing this=
+=20
+morning, with some back-up info that I've included below.
+
+Attached is the email that was sent to Ken Lay's office yesterday evening f=
+or=20
+delivery to Sen. Brulte.  It's of course confidential.  Few points:
+
+I don't have Bev's email, so if you could please forward to her, that would=
+=20
+be appreciated.
+50.
+If you have any questions about any of the materials in the email, please=
+=20
+don't hesitate to contact me or Jim or Sandi to discuss.  I can be best=20
+reached to day by pager at 888.916.7184. =20
+
+Thanks to all for helping pull this together.
+51.
+It was a pleasure speaking with you yesterday.  Based on our conversation,=
+=20
+this email includes the following:
+
+An Enron contact to discuss developing small-scale generation on Tribal lan=
+ds.
+
+Our views on the impediments to distributed generation and suggestions on h=
+ow=20
+to remove those impediments
+52.
+Sorry that we haven't talked in some time.  I thought that you would want
+to take a look at some analysis we have recently completed with regard to
+the California Power Crisis.  You may find some of the analysis to be
+helpful.  Let me know if you have any questions.
+53.
+Here's the link to the entire message in the event you're interested...you'll 
+go through several links to get all the information that was posted.  In 
+addition to the Corporate Watch article, there is an Environmental Defense 
+Scorecard on Enron's Methanol Plant in Deer Park, TX, and the old Amnesty 
+International article on human rights issues in India...
+
+http://boards.fool.com/Message.asp?id=1100058000814000&sort=postdate
+54.
+please forword the mail to the below mail id .thank you in advance
+55.
+ - Notice for gas infrastructure workshop.doc
+56.
+
+Following is a link to the actual White House page with the statement from 
+Clinton today.
+57.
+
+The information contained in this e-mail message and any accompanying 
+documents is subject to the attorney-client privilege and/or the attorney 
+work product rule and is confidential business information intended only for 
+the use of the individual or entity named above.  If the reader of this 
+message is not the intended recipient or representative of the recipient, you 
+are hereby notified that any dissemination of this communication is strictly 
+prohibited.  If you have received this communication in error, please notify 
+Kathryn A. Pugh at kpugh@pkns.com and immediately delete this message from 
+your system.
+58.
+Thanks..... what's a BEEP?
+59.
+
+Here it is
+60.
+See attached memo.
+
+61.
+
+Please review the attachment and let me know if you have any changes.  The final document will provide a starting place for the year end review process.
+62.
+
+I need to check when I can
+release this report. I have just testified,
+so I think it will be any day now,
+and I will then give you a password.
+
+I will be out of days until July 5.
+
+I see you are coming to Crete! Another chance
+to talk!
+
+63
+
+> I am in London this week, looking, among other things, at our
+> CreditDesk.com operation.
+> I was trying to access your expert report from your web site, but it's
+> password protected.
+>
+> Can you send me a copy?
+64
+Here is a grammatically correct version.  Hopefully it will make for somewhat easier reading.  In my haste to get it out, I did not check the grammar carefully.
+
+Sorry for the inconvenience.
+
+65.
+
+Please take a look and let me know how we need to modify the report.  I am yet to put the page numbers in Table of Contents which I am thinking of putting once the organization of the report is final.
+
+65
+his is an early draft document and should be revised, but does explain the spread option structure.
+
+66
+Looks like a very good paper for the Tech Corner next week. 
+Please, review before publication.
+
+I looked at it and it looked OK. Sam
+will need it by Fri evening.
+
+67.
+
+I've been meaing to ask you about the paper I sent to Sam on calculating implied pdf's for futures prices. Sam told me that you didn't want to include it in RI because it and the EOL article gave too much away.  I've talked with several folks about the approach outlined in the paper.  I've reworked the paper to try and better tailor it to traders, and I'd be interested in your feedback.  
+
+68
+I am sorry to send this late.
+I had to finish a report for DealBench team yesterday,
+and read papers and prepare slides for the meeting scheduled tomorrow 2PM.
+Because I thought those work has to be done first,
+I didn't put the priority to the summary report.
+
+Attached is the summary report.
+However, I hope I have more time to double check this.
+
+I'll do the proofreadding, and send this again,
+after the presentation tomorrow, 
+together with the summary report of tomorrow's presentation.    
+
+I am sorry for this again.
+69
+OK, here's the working draft "masterpiece" (haha).   Please review and provide comments and feedback by the end of the week (note: Ted and David, we have a conference call scheduled Wednesday for the three of us to discuss).   Also, I'm sending to Price Waterhouse Coopers for their input as well - I need to spend more time reviewing what they sent on Friday to see if I've missed any issues we want to address.
+
+I have not reviewed the details or the (one-RAC) structure with any of the other RAC or risk management functions - please do not distribute yourselves as I'd like to "cushion" the reception. 
+
+Review meetings with these functions begins tomorrow (Tuesday), when I meet with
+70
+I'll wait to hear from David/Ted tomorrow morning as to whether I should provide a complete draft to any of these other functions or to Rick Buy at this point, or if I should wait until later in the week when we've all had the opportunity to review.  
+
+As I turn around the next draft, I'll work on a power point presentation for use in the executive meetings beginning the last week of June (Business Unit Offices of the Chairman, Whalley, Causey, Fastow, Skilling).  I made a quick summary of changes in the document attached below; going forward I will refine this and perhaps red-line the current policy to assist our detailed review.  
+
+
+Thanks for your help,
+71
+Please, your presentation looks great.
+
+Take care and hope to meet you in Houston.
+
+Have a nice holiday.
+72.
+
+>    Hope you are well.  Thank you for your presentations.  Just one
+>    question,
+>    would you like me to change the name on the presentations from Vince to
+>    Zimin, or should I leave them as is?
+73
+I am sending you, as promised, the copies of my presentation.
+>    > My associate, Zimin Lu, will speak in my place in New York.
+>    >
+>    > You may want to change the background in the July 9 PowerPoint
+>    > presentation for printing (you can do it with one
+>    Format/Background/Apply
+>    > to All)
+>    > command  in order to make the copies look nicer.
+>    >
+>    > Please, confirm the receipt of the message and make sure
+>    > you can print the slides  and they come out OK. I am leaving for a
+>    foreign
+>    > trip tomorrow
+>    > and it will be difficult to reach me.
+74.
+ I understand how awfully busy you must all be at  this time, but I
+>    would
+>    >    appreciate a phone call or a quick email to confirm  that you ahve
+>    or
+>    >    have not, for that matter received the speaker packets I sent  to
+>    you
+>    >    May 2, 2001.  please advise as soon as possible, that way, if yo
+>    have
+>    >    not, for whatever received them, I will know what steps to take
+>    from
+>    >    there.
+>    >
+>    >    All the best.
+75.
+I agree.  I am almost through it -- and while there are improvements per our suggestions from the first draft -- 
+there are both substantive and format problems -- i.e., it does not read very well in places, aside from substance. 
+ Will fax Amr my comments on the text and leave with DC colleagues as I will be up in the Senate on RTOs this afternoon.
+76.
+In the context of GNIE Project and the papers that shall be put forward to the participants,
+ I am seeking your help in providing comments on paper one in the list below. 
+ I can not recommend it in its current form since it departs from Enron's line of thinking in many places.  
+ There is a tendency to make these papers neutral, but I found it actually going the other direction.
+
+Kindly advise of your point of view.  It is time sensitve, and I appreciate your help
+77.
+Attached as discussed is the second draft of the briefing documents for the Oct event. They have been separated per our request. These are fresh from Intellibridge and we in Houston have not reviewed them as well, but will be doing so over the weekend. 
+
+The documents are attached in the order in which we intend them to appear in
+the Briefing Book:
+78.
+Attached is a draft Nonwaiver Agreement per our telephone conferences of 
+yesterday after the meetings with Senator Dunn.  I am available in my office 
+for a conference call to discuss this.
+79.
+Please send any comments directly to Peggy.
+80.
+Attached is the first Q&A draft.  Please review, add questions, edit, etc.  
+This will be used as a guide for media and government affairs responses. 
+81.
+I think the presentation looks good.  In the meeting itself I think you 
+should go heavy on the argument that it makes no sense for Sempra 
+shareholders to be in a commodity market as a regulated entity -- the "heads 
+they win tails you lose" argument.
+82.
+Looks good.  I think you implicitly say this, but I think you should make it 
+more explicit:
+
+The continued growth of the new economy is not growing by our electricity 
+infrastructure more than anything else.
+The high tech industry requires market driven solutions to reliability and 
+pricing not the old style command and control regulated monopoly approach.
+Let's start getting the word out!
+83.
+I spoke to Kevin the other day and we discussed the  attached special report. Please read over and call me to review.
+84.
+Please, your presentation looks great.
+
+Take care and hope to meet you in Houston.
+
+Have a nice holiday.
+
+85.
+ Hope you are well.  Thank you for your presentations.  Just one
+>    question,
+>    would you like me to change the name on the presentations from Vince to
+>    Zimin, or should I leave them as is?
+86.
+ Please, confirm the receipt of the message and make sure
+>    > you can print the slides  and they come out OK. I am leaving for a
+>    foreign
+87.
+I agree with Mona: we need to include some customer contacts . . . it gives 
+them an opportunity to look smart about going to the marketplace and getting 
+price protection.
+88.
+I attended the kick off and coordinator committee meetings for UW today.  The 
+"Who wants to help Millions" game begins next Wed. (7/19) via email
+89.
+ we need to include a potential question in the Q&A document that 
+addresses if Enron will get back into the residential business (i.e. Resco).  
+Could you provide an answer to this question.  I need by end of biz Monday
+90
+Steve, I've attached the results of the focus groups as per my notes from the 
+meetings.  Let me know if you need anything else.
+91.
+ All the best.
+
+92.
+I need to check when I can
+release this report. I have just testified,
+so I think it will be any day now,
+and I will then give you a password.
+
+I will be out of days until July 5.
+
+I see you are coming to Crete! Another chance
+to talk!
+93.
+
+Here is a grammatically correct version.  Hopefully it will make for somewhat easier reading.  In my haste to get it out, I did not check the grammar carefully.
+
+Sorry for the inconvenience.
+94.
+
+ This is an early draft document and should be revised, but does explain the spread option structure.
+
+95.
+
+Looks like a very good paper for the Tech Corner next week. 
+Please, review before publication.
+
+I looked at it and it looked OK. Sam
+will need it by Fri evening.
+96
+I've been meaing to ask you about the paper I sent to Sam on calculating implied pdf's for futures prices. 
+Sam told me that you didn't want to include it in RI because it and the EOL article gave too much away.  
+I've talked with several folks about the approach outlined in the paper.  
+I've reworked the paper to try and better tailor it to traders, and I'd be interested in your feedback. 
+97
+I am sorry to send this late.
+I had to finish a report for DealBench team yesterday,
+and read papers and prepare slides for the meeting scheduled tomorrow 2PM.
+Because I thought those work has to be done first,
+I didn't put the priority to the summary report.
+
+Attached is the summary report.
+However, I hope I have more time to double check this.
+
+I'll do the proofreadding, and send this again,
+after the presentation tomorrow, 
+together with the summary report of tomorrow's presentation.  
+98.
+
+I'll wait to hear from David/Ted tomorrow morning as to whether I should provide a complete draft to any of these other functions or to Rick Buy at this point, or if I should wait until later in the week when we've all had the opportunity to review.  
+
+As I turn around the next draft, I'll work on a power point presentation for use in the executive meetings beginning the last week of June (Business Unit Offices of the Chairman, Whalley, Causey, Fastow, Skilling).  I made a quick summary of changes in the document attached below; going forward I will refine this and perhaps red-line the current policy to assist our detailed review.  
+
+99.
+
+Attached is my trip report for Amsterdam, Paris and London - I've given the 
+contact information for everyone to Kathy to be entered in the database and 
+thank you notes are going out today. 
+100
+Terry asked me to email these attachments to each of you.  One is an 
+organizational chart for his department and
+the other is a Global Affairs Activities Matrix.
+
+101
+The attached release announcing Enron Communications' investment in Avici and 
+our addition of their routers to our network is scheduled to be issued on 
+Thursday.  As background, ECI has invested $5 million in Avici.
+
+If you have any comments or questions, please let me know by 10 a.m. 
+Thursday.
+102
+attached in the document are the next four descriptions.  Only 3 o/s now ont 
+he liquids markets.  I will try to get these to you today as well.
+
+103
+I have sent these to David Forster in our Project group to review first 
+before I send them to yourself.  If I don't get them back today I will send 
+them over the weekend so they are there for you on Monday.
+104
+Could you please send me comments back on all the other descriptions today.  
+Is your fax machine at your end OK?  It's just that the other fax you sent 
+came through a dark background making the comments a little hard to read
+105
+I have forwarded the descriptions you have sent us thus far to the respective 
+Legal Trading Lawyers to sign off as far any legal issues we may have with 
+the descriptions.  I understand your deadline is the end of the week.
+
+When can I expect the remaining descriptions?
+106
+You missed logistics as a rotaion.
+
+Also - Let's leave out where they graduate to.  This might be an issue with 
+the AA program if we say that they are going to re-enter the program.
+107.
+
+I've finished marking up the drafts, and thought perhaps a few thoughts would 
+give you some insight into the reasons for my revisions .
+108
+I know that scheduling this meeting may be difficult for some and that
+schedules are already full, but schedules will become even more
+difficult later in the month.  I take as our deadline having new
+language for the Hill during the August recess.
+
+Thank you in advance for your continuing efforts to bring this new model
+for reliability into existence.
+109
+
+I sent the following to Andy Black in order to ensure that we also discuss
+the RTO/market power issues.  I'll bring copies to the meeting.  Please feel
+free to take issue with the language.
+
+110
+Thanks again for allowing me to participate in this afternoon's discussion.
+As I mentioned, I believe discussions of transmission issues must include
+both jurisdictional and RTO.  I understand that the RTO discussion is more
+difficult in the absence of paper.  For that reason, I have taken the
+liberty of drafting language that I believe mirrors (at least my view) of
+one possible construct of RTO Proposal I.
+
+111
+
+Terry asked me to email these attachments to each of you.  One is an 
+organizational chart for his department and
+the other is a Global Affairs Activities Matrix.
+
+
+112
