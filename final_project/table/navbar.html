@@ -1,0 +1,72 @@
+
+<html>
+<head>
+    <title>Correction</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav id="nav" class="nav">
+    <button class="menu">
+        <em class="hamburger"></em>
+    </button>
+    <div class="brand">
+        <img src="logo.png" width="50px">
+        <a href="#">CUET Mail</a>
+    </div>
+    <ul class="navbar">
+        <li>
+            <a href="#">Compose Mail</a>
+        </li>
+		<li class="active">
+            <a href="#">Inbox</a>
+        </li>
+		<li class="active">
+            <a href="#">Send Box</a>
+        </li>
+        <li>
+            <a href="#">Log Out</a>
+        </li>
+        
+    </ul>
+</nav>
+</body>
+
+<script>
+
+    /*http://callmenick.com/post/expanding-search-bar-using-css-transitions*/
+    (function($) {
+        "use strict";
+
+        var $navbar = $(".nav"),
+            y_pos = $navbar.offset().top,
+            height = $navbar.height();
+        $navbar.addClass("sticky");
+        //scroll top 0 sticky
+        /*$(document).scroll(function() {
+            var scrollTop = $(this).scrollTop();
+            if (scrollTop > 0) {
+                $navbar.addClass("sticky");
+            } else {
+                $navbar.removeClass("sticky");
+            }
+        });*/
+
+        //section sticky
+        /*$(document).scroll(function() {
+            var scrollTop = $(this).scrollTop();
+            if ($(window).height() > scrollTop) {
+              $navbar.removeClass("sticky");
+            } else {
+              $navbar.addClass("sticky");
+            }
+        });*/
+
+    })(jQuery, undefined);
+
+    $(".menu").click(function(){
+        $("#nav").toggleClass("open");
+    });
+</script>
