@@ -1,0 +1,36 @@
+
+
+1.G. Forman: An extensive empirical study of feature selection metrics for text classification. Journal of Machine Learning Research, 2003:1289-1305.
+2.Bo Pang , Lillian Lee . Seeing Stars : Exploiting Class Relationships for Sentiment Categorization with respect to Rating Scales,ACL2005:115-1243
+3.Tumey, Peter, and Littman, Michael L. Measuring praise and criticism : Inference of semantic orientation from association. ACM Transactions on Information Systems, 2003 : 315-346
+4.Sisi Liu and Ickjai Lee, A hybrid sentiment analysis framework for large email data, Intelligent
+Systems and Knowledge Engineering (ISKE), 2015 10th International Conference on, IEEE,
+2015, pp. 324–330.
+5.Feng, S., Wang, D., Yu, G., Yang, C. and Yang, N. Sentiment clustering: a novel method to explore in the blogosphere. Springer,City, 2009.
+6.Li, N. and Wu, D. D. Using text mining and sentiment analysis for online forums hotspot detection and forecast. Decision Support Systems, 48, 2 2010), 354-368.
+7.Balasubramanyan, R., Routledge, B. R. and Smith, N. A.From tweets to polls: Linking text sentiment to public opinion time series2010).
+8.Klimt, B. and Yang, Y. The enron corpus: A new dataset for Email classification research. Springer, City, 2004.
+9.Sharma, A. K. and Sahni, S. A comparative study of classification algorithms for spam Email data analysis. International Journal on Computer Science and Engineering, 3, 5 2011), 1890-1895.
+10.Sahami, M., Dumais, S., Heckerman, D. and Horvitz, E. A Bayesian approach to filtering junk e-mail. City, 1998. 
+11.Mohammad, S. M. and Yang, T. W. Tracking sentiment in mail: how genders differ on emotional axes. City, 2011.
+12.Hangal, S., Lam, M. S. and Heer, J. Muse: Reviving memories using Email archives. ACM, City, 2011.
+13.Balahur, A., Steinberger, R., Kabadjov, M., Zavarella, V., van der Goot, E., Halkia, M., Pouliquen, B., Belyaeva, J.: Sentiment Analysis in the News. In:Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), Valletta, Malta, May 19-21, 2010:2216–2220.
+14.https://monkeylearn.com/sentiment-analysis/
+15.https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623
+16.https://www.ibm.com/support/knowledgecenter/zosbasics/com.ibm.zos.zconcepts/zconc_datasetintro.htm
+17.https://medium.com/datadriveninvestor/machine-learning-ml-data-preprocessing-5b346766fc48
+18.“What is the Python programming language? Everything you need to know | InfoWorld”
+        https://www.infoworld.com/article/3204016/python/what-is-python.html#toc-1
+
+19.“Matplotlib: Python plotting — Matplotlib 3.0.0 documentation”
+        https://matplotlib.org/
+20.“NumPy — NumPy” http://www.numpy.org/
+21.“scikit-learn: machine learning in Python — scikit-learn 0.20.0 documentation”
+        http://scikit-learn.org/stable/
+22.“A Gentle Introduction to Scikit-Learn”
+        https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn
+23.“Python Data Analysis Library — pandas: Python Data Analysis Library”
+        http://pandas.pydata.org/
+24.PyMySQL · PyPI
+https://pypi.org/project/PyMySQL/
+25.
