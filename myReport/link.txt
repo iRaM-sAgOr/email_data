@@ -35,4 +35,7 @@ Systems and Knowledge Engineering (ISKE), 2015 10th International Conference on,
 https://pypi.org/project/PyMySQL/
 25.WTF is TF-IDF?
 https://www.kdnuggets.com/2018/08/wtf-tf-idf.html
-26
+26.Nádia F.F. da Silva, Eduardo R. Hruschka, Estevam R. Hruschka Jr. "TWEET SENTIMENT ANALYSIS WITH CLASSIFIER ENSEMBLES." Decision Support Systems, Vol.66, Pages 170–179, October 2014.
+27.Yassine Al-Amrani, Mohamed Lazaar, and Kamal Eddine Elkadiri, Sentiment analysis using
+supervised classification algorithms, Proceedings of the 2nd international Conference on Big
+Data, Cloud and Applications, ACM, 2017, p. 61.
